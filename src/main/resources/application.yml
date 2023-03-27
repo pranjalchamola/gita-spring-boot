@@ -3,12 +3,3 @@ spring:
     mongodb:
       uri : mongodb+srv://testuser1:uS4rinzgncgmV9lD@cluster-gita.dz2aflb.mongodb.net/gita1?retryWrites=true&w=majority
       database : gita1
-
-#server:
-#  ssl:
-#    key-alias: spring-https
-#    key-store: classpath:javatechie.jks
-#    key-store-type: JKS
-#    key-password: password
-#
-#  port: 443
